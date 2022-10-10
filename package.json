@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.15"
   }
 }
